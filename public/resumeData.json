@@ -1,0 +1,161 @@
+{
+  "main": {
+    "name": " Abhishek Chauhan",
+    "occupation": "Front-end Developer",
+    "description": "currently pursuing my ",
+    "image": "Abhi.jpg",
+    "bio": "My name is Abhishek, I am React Js developer skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools. ",
+    "contactmessage": "Get in touch with me to receive further detail.",
+    "email": "abhishekchauhan150@gmail.com",
+    "phone": "+39 3496390264",
+    "address": {
+      "street": "via Antonio Veneziano",
+      "city": "Pisa",
+      "state": "IT",
+      "zip": "56122"
+    },
+    "website": "",
+    "resumedownload": "https://ac12644.github.io/bio/RESUME(en).pdf",
+    "itresumedownload": "https://ac12644.github.io/bio/RESUME(it).pdf",
+    "social": [
+      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ac12644//",
+        "className": "fa fa-linkedin"
+      },
+      
+      {
+        "name": "github",
+        "url": "https://github.com/ac12644",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Pisa",
+        "degree": "Bachelors in Business & Economics",
+        "graduated": "2019-2022",
+        "description": ""
+      }
+    ],
+    "work": [
+      
+      {
+        "company": "Newhopeu",
+        "title": "Software Developer",
+        "years": "March 2020 - October 2020",
+        "description": "Web Design | Email Automation | SEO"
+      }
+    ],
+    "front_skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "90%"
+      },
+      {
+        "name": "Material-UI",
+        "level": "80%"
+      },
+      
+      {
+        "name": "Wordpress",
+        "level": "75%"
+      },
+      
+      {
+        "name": "HTML5",
+        "level": "90%"
+      }
+      
+      
+     
+     
+    ],
+  
+  "back_skills": [
+   
+    {
+      "name": "Mongo-Db",
+      "level": "80%"
+    },
+    {
+      "name": "Express",
+      "level": "60%"
+    },
+    
+    {
+      "name": "Node",
+      "level": "60%"
+    },
+    {
+      "name": "Git",
+      "level": "90%"
+    },
+ 
+    {
+      "name": "My SQL",
+      "level": "80%"
+    },
+    
+    {
+      "name": "JSON",
+      "level": "80%"
+      
+    },
+    {
+      "name": "User Auth using MERN and Google",
+      "level": "90%"
+    }
+    
+  ]
+},
+  "portfolio": {
+    "projects": [
+      {
+        "title": "COVID-19 tracker",
+        "category": "A real time covid cases tracker(ReactJS)",
+        "image": "covid_tracker.png",
+        "url": "https://ac12644.github.io/covid_tracker/"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with React",
+        "image": "amazon.png",
+        "url": "https://clone-5d0d9.web.app/"
+      },
+      {
+        "title": "Newhopeu",
+        "category": "Social website to connecting with other young global leaders bulit with wordpress",
+        "image": "newhopeu.png",
+        "url": "https://newhopeu.com/en/5c1d3-frontpage/"
+      },
+      {
+        "title": "Goldbird",
+        "category": "A business website for import export created using React js",
+        "image": "goldbird.png",
+        "url": "https://goldbird-72dab.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      
+      {
+        "text": "Design doesn’t mean that every person [is] gonna like, love it, but that’s the creativity of [an] eye which creates something different.",
+        "user": "Bijay Chhetri"
+      }
+    ]
+  }
+}
